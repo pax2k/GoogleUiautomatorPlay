@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:25
+-keep class no.koteng.awesomeapp.FlagActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class no.koteng.awesomeapp.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:29
+-keep class no.koteng.awesomeapp.SummaryActivity { <init>(...); }
+

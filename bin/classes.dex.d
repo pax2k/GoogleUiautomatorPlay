@@ -1,0 +1,20 @@
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/bin/classes.dex : \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/bin/classes/no/koteng/awesomeapp/BuildConfig.class \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/bin/classes/no/koteng/awesomeapp/FlagActivity$FlagAdapter$1.class \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/bin/classes/no/koteng/awesomeapp/FlagActivity$FlagAdapter.class \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/bin/classes/no/koteng/awesomeapp/FlagActivity.class \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/bin/classes/no/koteng/awesomeapp/MainActivity$1.class \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/bin/classes/no/koteng/awesomeapp/MainActivity.class \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/bin/classes/no/koteng/awesomeapp/R$attr.class \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/bin/classes/no/koteng/awesomeapp/R$dimen.class \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/bin/classes/no/koteng/awesomeapp/R$drawable.class \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/bin/classes/no/koteng/awesomeapp/R$id.class \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/bin/classes/no/koteng/awesomeapp/R$layout.class \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/bin/classes/no/koteng/awesomeapp/R$menu.class \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/bin/classes/no/koteng/awesomeapp/R$string.class \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/bin/classes/no/koteng/awesomeapp/R$style.class \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/bin/classes/no/koteng/awesomeapp/R.class \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/bin/classes/no/koteng/awesomeapp/SummaryActivity.class \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/bin/classes/no/koteng/awesomeapp/UserData.class \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/bin/classes/no/koteng/awesomeapp/Util.class \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/bin/dexedLibs/android-support-v4-45c71a4b968d3c913e3fdfcbb77a72cc.jar \

@@ -1,0 +1,58 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/background_dark"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/user_data_input"
+        android:gravity="center"
+        android:paddingTop="15dip"
+        android:text="@string/please_enter_userdata"
+        android:textColor="@android:color/white"
+        android:textSize="28sp" />
+
+    <EditText
+        android:id="@+id/username"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/username"
+        android:paddingTop="15dip"
+        android:text=""
+        android:textColor="@android:color/white"
+        android:textSize="25sp" />
+
+    <EditText
+         android:id="@+id/realName"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/real_name"
+        android:paddingTop="15dip"
+        android:text=""
+        android:textColor="@android:color/white"
+        android:textSize="25sp" />
+
+    <EditText
+         android:id="@+id/email"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/email"
+        android:paddingTop="15dip"
+        android:inputType="textEmailAddress"
+        android:text=""
+        android:textColor="@android:color/white"
+        android:textSize="25sp" />
+
+    <Button
+         android:id="@+id/ok"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="15dip"
+        android:text="@string/ok"
+        android:textColor="@android:color/white"
+        android:textSize="25sp" />
+
+</LinearLayout>

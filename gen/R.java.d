@@ -1,0 +1,21 @@
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/gen/no/koteng/awesomeapp/R.java \
+ : /Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/res/drawable-hdpi/ic_launcher.png \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/res/drawable-ldpi/app_image.jpg \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/res/drawable-mdpi/ic_launcher.png \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/res/drawable-xhdpi/ic_launcher.png \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/res/drawable-xxhdpi/ic_launcher.png \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/res/layout/activity_flag.xml \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/res/layout/activity_main.xml \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/res/layout/activity_summary.xml \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/res/layout/flag_item.xml \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/res/menu/main.xml \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/res/menu/menu.xml \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/res/menu/summary.xml \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/res/values/dimens.xml \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/res/values/strings.xml \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/res/values/styles.xml \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/res/values-sw600dp/dimens.xml \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/res/values-sw720dp-land/dimens.xml \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/res/values-v11/styles.xml \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/res/values-v14/styles.xml \
+/Users/pax2k/Documents/workspace/GoogleUiautomatorPlay/GoogleUiautomatorPlay/bin/AndroidManifest.xml \
